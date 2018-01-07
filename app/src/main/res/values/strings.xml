@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Read All About It</string>
+    <string name="empty_view_text">Begin search up top.</string>
+    <string name="no_network_connection">No internet connection!</string>
+    
+    <!-- Menu Items -->
+    <string name="settings_menu_item">Settings</string>
+    <string name="search_menu_item">Search</string>
+    <!-- Settings Activity Title-->
+    <string name="settings_title">Settings</string>
+    
+    <!-- Strings For Order-By Preference-->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value">relevance</string>
+    
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+    
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+    
+    <!-- Strings for Order-Dare Preference -->
+    <string name="settings_order_date_label">Order Date</string>
+    <string name="settings_order_date_key" translatable="false">order_date</string>
+    
+    <string name="settings_order_date_by_published_label">Published</string>
+    <string name="settings_order_date_by_published_value" translatable="false">published</string>
+
+    <string name="settings_order_date_by_newspaper_edition_label">Newspaper Edition</string>
+    <string name="settings_order_date_by_newspaper_edition_value" translatable="false">newspaper-edition</string>
+
+    <string name="settings_order_date_by_last_modified_label">Lase Modified</string>
+    <string name="settings_order_date_by_last_modified_value" translatable="false">last-modified</string>
+    
+</resources>
